@@ -1,1 +1,1 @@
-Game development
+Organization GitHub Config
